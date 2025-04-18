@@ -1,8 +1,16 @@
-👋 Hi, I’m @idsafi
+Ich bin ein 27-jähriger Programmier-Enthusiast mit einem Hintergrund in Wirtschaftsinformatik. Mein Studium an der Technischen Universität Wien habe ich einige Semester lang absolviert, bevor ich mich entschieden habe, meinen Fokus auf praxisorientierte Projekte zu legen.
 
-Ich bin ein 27-Jähriger Uniabbrecher, welcher als Hobby gerne programmiert. Ich habe einige Semester an der Technische Universität (TU) Wien Wirtschaftsinformatik studiert.
+Meine Hauptprogrammiersprache ist Java. Zudem verfüge ich über fundierte Kenntnisse in PHP, HTML5, CSS und Bootstrap.
 
-Meine Programmiersprache ist Java. Kenntnisse habe ich in PHP, HTML5, CSS, Bootstrap.
+Besonders interessiere ich mich für die Entwicklung benutzerfreundlicher Anwendungen und Weblösungen. Mein technisches Wissen erweitere ich kontinuierlich durch eigene Projekte und praxisnahe Herausforderungen.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+I’m a 27-year-old programming enthusiast with a background in Business Informatics. I studied for several semesters at the Vienna University of Technology before deciding to focus on practical, hands-on projects.
+
+My main programming language is Java, and I also have solid experience with PHP, HTML5, CSS, and Bootstrap.
+
+I’m particularly interested in developing user-friendly applications and web solutions. I continuously expand my technical knowledge through personal projects and real-world challenges.
 
 
 <!---
